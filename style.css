@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(130, 208, 116);
+}
+
+header,
+footer {
+    color: rgb(10, 8, 27);
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(66, 24, 24);
+    font-size: 28px;
+    
+}
+
+nav {
+    background-color: rgb(235, 126, 58);
+    padding: 5px 0;
+    
+}
+
+main {
+    background-color: rgb(162, 29, 89);
+    padding: 10px;
+}
+
+footer {
+    color: black;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+}
