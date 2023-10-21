@@ -14,12 +14,14 @@ a {
     text-decoration: none;
     color: rgb(66, 24, 24);
     font-size: 28px;
-    
+    border-top: solid 1px #505050;
+    border-bottom: solid 1px black;
 }
 
 nav {
     background-color: rgb(235, 126, 58);
     padding: 5px 0;
+    border-bottom: solid 1px black;
     
 }
 
